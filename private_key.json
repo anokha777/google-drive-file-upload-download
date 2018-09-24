@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dyanand-file-upload",
+  "private_key_id": "f72e2c2930032cbb10913da280273ee41efa853c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPgBU2hG88x+q8\nK0xXe9KAgeKpRicRASpqiIAM/ec88ItgPwPNBGE3y+YRJFBmGpz9Hz2K8m3C+PV9\nSSblDMZnxkIJGGcYrht1YXrMCuzd5oT2K4ZvACm7m2pgreg/kVjrpnndQnW4aCin\nurZtYdE4gSMP5D1gQzHPuEIdB2nRufiAfFJvG1VkiJDAcw0n8LPEf508A6cKEQB1\nfoGQ3aBlpLh8C9cvloKDIhgc6F6kPfSFvUagkkwbt2IbpB4u8Mkd1he5kes8bWPS\nzyYbM7mDvd8XtKz9rla+JE26E6JsHPnQ1IveCFmZ439kf1RZmC9sgetp3at8RMfT\nZg1UHpPXAgMBAAECggEABLUo/P7fP1k3pDCvcndHcpvQOclpYq9tGs2bldGGkoM5\nr1Ch6UnpfpEb3RgZ4x+gYtVxiWtmmmzccN3DfuQqZiEk7XN1fmPH1tP52VPKbYUw\ne3r2EBIrTFJO7RkHc35rMl/lw5J4ljIkk0wWzAPXf0kNQ2ozcUMDEVN0J8ukdxLc\nNsRju+r6EOth81ZjVa36JUSIEoHbk1eOXxuJ7aIB1EzkLNzQcCpS9Fsqmygi63xv\n1MnYv2ocCY3s6BcpbNzwaKCv39dvlsC95I2fGpxM0V0pua/M621L0xAea5g2plZN\nnizjEPcCGKKVFw6cKEcJY1wkkdcESKhj4LGXwn2mIQKBgQC/xbR9FvgyfeFWRFvP\nHkuoi2hNOfcIOzDhDWA9CqjwrKHEjHV78yXRPvboq6KrU9TZ5rYzsOlxkpARM7Nl\ncpkG8W7gpHIxuw8s8cpmmUDRMtNriVRbAvQFQ+S9dEEin4cqgy4sOIrpk1jxcAYZ\nP6Wf7a4OveJMOI98+p7BL4MFqQKBgQC/j5sA4yBH0zEB9b1iOhGoAj0EZOKyq0II\nOmf3tCynWeh2dzWEUU5EWwQEEAXes1CoKxePkjTx6de4+JoYs/bsIzkxx8+KF9U1\nDsyWhR2aPw7BzYopHISWfseaTwjEFGPOSzVY/wWG7e6bGHflQ/S+XJdiCDDwVIks\nPGJFtAm9fwKBgEt5gxRsMtikZEgwdTWpxbsayr0CIDBUI2OfgQ3lISI/vxb89MwI\noQyeTEy8KDRntPDhdToY2XeCaELs5yD5HjL2WF3/OpZJ+aoFq1P/4tuytjSvgsyi\n9+kOlHrfwzbeNDNOF6D9y+YrwKidHzlWrFeqEoPoxaSb6hUVCeAcU+OpAoGBAKEl\n0aOhbhp+E5Auhi8H4qqPl30G0Z60a0w4thWvQJFYFTLzfdXeABWI64vvXsDF4GhY\nN+3TdS69JXi5yghV/LcRup+iE3l8KyQDWyCUwx5rRaLLohqLnw5rgMbTDfDFpmB4\n7Fv9zUyBBGT85H+99znc8ozJj0HeG7dW5OT2W+tJAoGAG6GWcNwQcZ1IpmCwIVf3\nGkhZdG6UxOcVB3lZ8D9YC/U2MJmM+/dXsAJl30iGO406L5aV6MKtN3k5W6/3JhdW\ni5+K7rDOaxdPxOnYLDbXlc1OggWIwJx4TBppxXA0qMHgQl0CEVRsR7x5z7u/GVfp\nmaGYn2CE/cKVNoUBbeXwbTA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dyanand-file-service-api@dyanand-file-upload.iam.gserviceaccount.com",
+  "client_id": "102588806620641723902",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dyanand-file-service-api%40dyanand-file-upload.iam.gserviceaccount.com"
+}
